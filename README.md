@@ -25,18 +25,6 @@ to produce localized and controllable image edits from natural language prompts.
 
 ---
 
-# Pipeline Overview
-
-![Architecture](assets/architecture.png)
-
----
-
-# Feature Overview
-
-![Features](assets/feature_overview.png)
-
----
-
 # Overview
 
 Traditional text-to-image editing often modifies large portions of an image unintentionally.
